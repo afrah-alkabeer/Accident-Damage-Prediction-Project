@@ -11,4 +11,4 @@ Includes:
 Best model: Logistic Regression (71% accuracy)
 
 Notebook:
-https://colab.research.google.com/drive/1OLB8IlcwYdogYXFRBTUQH4v387-Q3w07?usp=sharing
+https://colab.research.google.com/drive/1uFTERPxWKlIlowhqyxPL8A9E06uMa089
