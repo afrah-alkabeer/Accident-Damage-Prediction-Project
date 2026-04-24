@@ -1,7 +1,7 @@
 
 # 🚗 Accident Damage prediction & Data Analysis
 
-## 📌 Overview
+## 📖 Overview
 This project focuses on analyzing traffic accident data and building machine learning models to predict accident damage severity. The goal is to identify key factors affecting accidents and improve prediction accuracy for better decision-making.
 
 ---
@@ -50,6 +50,6 @@ Two models were applied:
 
 ---
 
-## 🧠 Conclusion
+## 📌 Conclusion
 Machine learning can effectively help predict accident severity and identify key risk factors such as time, location, and driving behavior. Logistic Regression proved to be the most reliable model in this project.
 
